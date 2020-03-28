@@ -10,6 +10,12 @@ This is a simple SPA made with React that receives a GitHub user and a GitHub re
 1. Clone this repository.
 2. Open a Terminal and run ``yarn start``.
 
+## Made with
+
+- ReactJS
+- React Router
+- Styled Components
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)

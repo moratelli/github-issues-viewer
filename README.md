@@ -1,4 +1,4 @@
-# react-practice
+# GitHub Issues Viewer (Web)
 This is a simple SPA made with React that receives a GitHub user and a GitHub repository, e.g., ``facebook/react`` and shows that repository's basic information plus a list with its issues. Everything is stored in localStorage.
 
 ## Demo
